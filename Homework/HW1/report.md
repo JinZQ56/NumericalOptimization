@@ -9,11 +9,11 @@
 
 * Visualization of a 2D Rosenbrock function
 
-![Rosenbrock2D](/run/user/1000/doc/fe6633fa/Rosenbrock2D.png) 
+![Rosenbrock2D](fig/Rosenbrock2D.png) 
 
 * Optimization result of a 2D RB function and 10D RB function
 
-  ![Result10D](/run/user/1000/doc/1b21334a/Result10D.png)
+  ![Result10D](fig/Result10D.png)
 
 #### 3. Analysis
 

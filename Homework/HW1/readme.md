@@ -39,6 +39,6 @@
 
 * An example is shown bellow which is the result of `python optimize.py 10`
 
-  ![Rosenbrock2D](/run/user/1000/doc/fe6633fa/Rosenbrock2D.png)
+  ![Rosenbrock2D](fig/Rosenbrock2D.png)
 
-   ![Result10D](/run/user/1000/doc/1b21334a/Result10D.png)
+   ![Result10D](fig/Result10D.png)
