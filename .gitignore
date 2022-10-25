@@ -1,3 +1,7 @@
 /Homework/upload/
 .idea
-.gitignore
+# .gitignore
+**/uplaod
+**/build
+**/devel
+**/ROS
